@@ -1,2 +1,1 @@
-# Berling Gaming Center
- BGC Tournaments & more
+Just learning how to play
